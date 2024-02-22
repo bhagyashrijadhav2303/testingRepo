@@ -5,4 +5,8 @@ public with sharing class devopsclass {
     public devopsclass123() {
 
     }
+
+    public testingpurpose() {
+
+    }
 }
